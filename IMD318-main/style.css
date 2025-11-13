@@ -1,0 +1,20 @@
+h1 {
+border:solid 3.5px;
+border-color:568203;
+background-color:C3B091;
+color:#4A2C2A;
+text-align:center;}
+
+body{
+font-family:times new roman;
+background-color:#C3B091}
+
+p{
+color:#568203;}
+
+ol {background-color:7F5112;
+border: solid 2px;
+border-color:568203;
+border-top-style: dotted;
+border-bottom-style:dashed;
+padding-top: 5px}
